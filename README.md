@@ -17,7 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/ridho03/waridhobot.git
+> git clone https://github.com/Lkey7/batok
+
 > cd botst4rz
 > bash install.sh
 > node index.js
