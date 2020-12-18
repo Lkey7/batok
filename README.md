@@ -1,5 +1,5 @@
-# ridhobot
-BOT WHATSAPP HP RIDHO SETIAWAN
+# LBOT 
+BOT WHATSAPP L
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
